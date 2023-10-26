@@ -27,7 +27,7 @@ const Card = () => {
     >
       <div className="relative z-10 text-white">
         <span className="mb-3 block w-fit rounded-full bg-white/30 px-3 py-0.5 text-sm font-light text-white">
-          Pro
+          Speed
         </span>
         <motion.span
           initial={{ scale: 0.85 }}
@@ -42,16 +42,16 @@ const Card = () => {
           }}
           className="my-2 block origin-top-left font-mono text-6xl font-black leading-[1.2]"
         >
-          $299/
+          Imersive
           <br />
-          Month
+          Speed
         </motion.span>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, rem.
         </p>
       </div>
       <button className="absolute bottom-4 left-4 right-4 z-20 rounded-full border-2 border-white bg-white py-2 text-center font-mono font-black uppercase text-neutral-800 backdrop-blur transition-colors hover:bg-white/30 hover:text-white">
-        Get it now
+        Know more
       </button>
       <Background />
     </motion.div>

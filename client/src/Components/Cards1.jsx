@@ -27,7 +27,7 @@ const Card = () => {
     >
       <div className="relative z-10 text-white">
         <span className="mb-3 block w-fit rounded-full bg-white/30 px-3 py-0.5 text-sm font-light text-white">
-          Pro
+          Quick
         </span>
         <motion.span
           initial={{ scale: 0.85 }}
@@ -42,9 +42,9 @@ const Card = () => {
           }}
           className="my-2 block origin-top-left font-mono text-6xl font-black leading-[1.2]"
         >
-          $299/
+          Quick
           <br />
-          Month
+          Response
         </motion.span>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, rem.
