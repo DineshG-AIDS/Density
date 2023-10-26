@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: custom1;
+  src: url("./asserts/ff4.ttf");
+}
+@font-face {
+  font-family: custom2;
+  src: url("./asserts/ff5.ttf");
+}
+@font-face {
+  font-family: custom3;
+  src: url("./asserts/OnelySans-BF64ca37de58364.otf");
+}
